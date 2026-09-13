@@ -1,4 +1,9 @@
 # Catálogo de Veículos (Revenda de Carros)
+//Esse é o link pro vídeo da revisão e funcionamento do projeto:
+(Clique na imagem para ser redirecionado)
+
+
+[![CRUD](https://img.youtube.com/vi/68K50GDlzO0/0.jpg)](https://www.youtube.com/watch?v=68K50GDlzO0)   
 
 Projeto de CRUD desenvolvido em PHP + Bootstrap + JavaScript + MySQL.
 
